@@ -1,1 +1,1 @@
-# SQL---Student-Data-Management
+# SQL---Student-Database-Management
